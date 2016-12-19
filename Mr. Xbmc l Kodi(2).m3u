@@ -1,0 +1,1536 @@
+#EXTM3U
+#EXTINF:-1,[COLOR green] WORLD IPTV [/COLOR]
+http://0.0.6.0:1234
+#EXTINF:-1,[COLOR yellow] Mr. Xbmc l Kodi [/COLOR]
+http://0.1.5.1:1224
+#EXTINF:-1,A&E
+http://5.226.137.176:9090/load/free123/2.mpegts
+#EXTINF:-1,ABC
+http://5.226.137.176:9090/load/free123/3.mpegts
+#EXTINF:-1,AMC
+http://5.226.137.176:9090/load/free123/4.mpegts
+#EXTINF:-1,Animal Planet US
+http://5.226.137.176:9090/load/free123/27.mpegts
+#EXTINF:-1,Cinemas EAST
+http://5.226.137.176:9090/load/free123/18.mpegts
+#EXTINF:-1,Cinemax 5Stars
+http://5.226.137.176:9090/load/free123/21.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://5.226.137.176:9090/load/free123/20.mpegts
+#EXTINF:-1,CNN US
+http://5.226.137.176:9090/load/free123/16.mpegts
+#EXTINF:-1,Comedy Central US
+http://5.226.137.176:9090/load/free123/14.mpegts
+#EXTINF:-1,Discovery Channel US
+http://5.226.137.176:9090/load/free123/49.mpegts
+#EXTINF:-1,E!
+http://5.226.137.176:9090/load/free123/5.mpegts
+#EXTINF:-1,ESPN
+http://5.226.137.176:9090/load/free123/30.mpegts
+#EXTINF:-1,ESPN2
+http://5.226.137.176:9090/load/free123/31.mpegts
+#EXTINF:-1,FOX
+http://5.226.137.176:9090/load/free123/6.mpegts
+#EXTINF:-1,Fox Sports1
+http://5.226.137.176:9090/load/free123/32.mpegts
+#EXTINF:-1,Fox Sports2
+http://5.226.137.176:9090/load/free123/33.mpegts
+#EXTINF:-1,FX
+http://5.226.137.176:9090/load/free123/7.mpegts
+#EXTINF:-1,H2 US
+http://5.226.137.176:9090/load/free123/25.mpegts
+#EXTINF:-1,HallMark
+http://5.226.137.176:9090/load/free123/9.mpegts
+#EXTINF:-1,HBO Comedy
+http://5.226.137.176:9090/load/free123/53.mpegts
+#EXTINF:-1,HBO EAST
+http://5.226.137.176:9090/load/free123/17.mpegts
+#EXTINF:-1,HBO Family
+http://5.226.137.176:9090/load/free123/52.mpegts
+#EXTINF:-1,HBO Signature
+http://5.226.137.176:9090/load/free123/51.mpegts
+#EXTINF:-1,HBO ZONE
+http://5.226.137.176:9090/load/free123/50.mpegts
+#EXTINF:-1,HGTV
+http://5.226.137.176:9090/load/free123/29.mpegts
+#EXTINF:-1,History US
+http://5.226.137.176:9090/load/free123/24.mpegts
+#EXTINF:-1,Investigation Discovery US
+http://5.226.137.176:9090/load/free123/28.mpegts
+#EXTINF:-1,Lifetime US
+http://5.226.137.176:9090/load/free123/15.mpegts
+#EXTINF:-1,LMN
+http://5.226.137.176:9090/load/free123/8.mpegts
+#EXTINF:-1,NatGeo Wild US
+http://5.226.137.176:9090/load/free123/48.mpegts
+#EXTINF:-1,National Geographic US
+http://5.226.137.176:9090/load/free123/26.mpegts
+#EXTINF:-1,NBA
+http://5.226.137.176:9090/load/free123/34.mpegts
+#EXTINF:-1,NBC
+http://5.226.137.176:9090/load/free123/1.mpegts
+#EXTINF:-1,NBC SN
+http://5.226.137.176:9090/load/free123/43.mpegts
+#EXTINF:-1,NFL Network
+http://5.226.137.176:9090/load/free123/35.mpegts
+#EXTINF:-1,Showtime
+http://5.226.137.176:9090/load/free123/19.mpegts
+#EXTINF:-1,Showtime West
+http://5.226.137.176:9090/load/free123/54.mpegts
+#EXTINF:-1,Spike US
+http://5.226.137.176:9090/load/free123/12.mpegts
+#EXTINF:-1,Sportnet 360
+http://5.226.137.176:9090/load/free123/45.mpegts
+#EXTINF:-1,Sportsnet ONE
+http://5.226.137.176:9090/load/free123/44.mpegts
+#EXTINF:-1,Sportsnet Ontario
+http://5.226.137.176:9090/load/free123/47.mpegts
+#EXTINF:-1,SPORTSNET WORLD
+http://5.226.137.176:9090/load/free123/46.mpegts
+#EXTINF:-1,Starz Edge
+http://5.226.137.176:9090/load/free123/22.mpegts
+#EXTINF:-1,Starz Encore
+http://5.226.137.176:9090/load/free123/23.mpegts
+#EXTINF:-1,SyFY US
+http://5.226.137.176:9090/load/free123/11.mpegts
+#EXTINF:-1,TBS
+http://5.226.137.176:9090/load/free123/42.mpegts
+#EXTINF:-1,TNT
+http://5.226.137.176:9090/load/free123/13.mpegts
+#EXTINF:-1,TSN1
+http://5.226.137.176:9090/load/free123/36.mpegts
+#EXTINF:-1,TSN2
+http://5.226.137.176:9090/load/free123/37.mpegts
+#EXTINF:-1,TSN3
+http://5.226.137.176:9090/load/free123/38.mpegts
+#EXTINF:-1,TSN4
+http://5.226.137.176:9090/load/free123/39.mpegts
+#EXTINF:-1,TSN5
+http://5.226.137.176:9090/load/free123/40.mpegts
+#EXTINF:-1,USA Network
+http://5.226.137.176:9090/load/free123/10.mpegts
+#EXTINF:0 type="stream" , NICK TOONS USA
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:0 type="stream" , TNT USA
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:0 type="stream" , FREEFORM USA
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+#EXTINF:0 type="stream" , LONDON LIVE usa
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0 type="stream" , BBC AMERICA USA
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:0 type="stream" , TRU TV usa
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:0 type="stream" , DYSCOVERY USA
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:0 type="stream" , ANIMAL PLANET L!VE HD usa
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0 type="stream" , ABC NEWS usa
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+#EXTINF:0 type="stream" , H2 usa
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:0 type="stream" , CNN USA
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:0 type="stream" , BBC WORLD NEWS usa
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,24h
+http://190.57.234.164/V0/4/2.m3u8
+#EXTINF:-1,DeporTV
+http://190.57.234.164/V0/4/1.m3u8
+#EXTINF:-1,24h
+http://190.57.234.164/V3/4/2.m3u8
+#EXTINF:-1,ElTrece
+http://190.57.234.164/V3/1/1.m3u8
+#EXTINF:-1,nick2
+http://190.57.234.164/V0/3/1.m3u8
+#EXTINF:-1,ElTrece
+http://190.57.234.164/V0/1/1.m3u8
+#EXTINF:-1,9VIVO
+http://190.57.234.164/V0/2/1.m3u8
+#EXTINF:-1,DXTV
+http://190.57.234.164/V3/4/1.m3u8
+#EXTINF:-1,AYM SPORTS
+http://190.57.234.164/V0/5/1.m3u8
+#EXTINF:-1,AM Sports
+http://190.57.234.164/V3/5/1.m3u8
+#EXTINF:-1,UFC NETWORK OPC 1
+http://190.57.234.164/V0/6/1.m3u8
+#EXTINF:-1,UFC NETWORK OPC 2
+http://190.57.234.164/V0/6/2.m3u8
+#EXTINF:-1,UFC Network OPC 3
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:-1,UFC Network OPC 4
+http://190.57.234.164/V3/6/2.m3u8
+#EXTINF:0 type="stream" , CANAL DE LAS ESTRELLAS latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0 type="stream" , las estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0 type="stream" , ESTRELLA TV
+http://104.223.36.232:1935/live/myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1967" , Telemundo
+http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
+#EXTINF:0 type="stream" , Univisión
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2660" , azteca Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0 type="stream" channelId="2690" , Proyecto 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:0 type="stream" channelId="2497" , tvmas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?hermoso.m3u8
+#EXTINF:0 type="stream" , ONCE TV
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="328" , FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0 type="stream" , MILENIO
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:0 type="stream" , Efekto TV HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:0 type="stream" , MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:0 type="stream" , TVPACIFICO
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2489" , Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0 type="stream" , TDT
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0 type="stream" , canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0 type="stream" , DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0 type="stream" , Rusia Today en Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:0 type="stream" , BYU Television
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:0 type="stream" , Una voz con todos
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:0 type="stream" , DYSCOVERY
+http://q.gs:80/14608897/canal-6?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 type="stream" , NIU Tv
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+#EXTINF:0 type="stream" , NICK 2 OPC 1
+http://190.57.234.164/V0/3/1.m3u8
+#EXTINF:0 type="stream" , Nick 2 OPC 2
+http://190.57.234.164/V3/3/1.m3u8
+#EXTINF:0 type="stream" , Cinematvplay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+#EXTINF:0 type="stream" channelId="1310" , Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:0 type="stream" channelId="140" , TV5 Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0 type="stream" channelId="1719" , PARAMOUNT CHANNEL
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:0 type="stream" channelId="2207" , RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 type="stream" , ENTRETENIMIENTO:Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0 type="stream" channelId="3123" , #0
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/5.ts
+#EXTINF:0 type="stream" channelId="2124" , Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" , LA CUATRO
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/3.ts
+#EXTINF:0 type="stream" , 5 HD
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/4.ts
+#EXTINF:0 type="stream" channelId="1692" , LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" , MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0 type="stream" , Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0 type="stream" , a3series hd
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" , SERIES XTRA
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/35.ts
+#EXTINF:0 type="stream" channelId="1076" , tv8
+http://comunidadiptv.org/online/estable/canal/TV8.m3u8
+#EXTINF:0 type="stream" channelId="1695" , Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0 type="stream" channelId="2125" , Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0 type="stream" channelId="1677" , COSMO
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/39.ts
+#EXTINF:0 type="stream" channelId="56" , NAT GEO
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/28.ts
+#EXTINF:0 type="stream" channelId="1667" , CALLE 13
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/13.ts
+#EXTINF:0 type="stream" channelId="1573" , AXN
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/37.ts
+#EXTINF:0 type="stream" channelId="1574" , AXN WHITE
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/38.ts
+#EXTINF:0 type="stream" channelId="1052" , TNT
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/40.ts
+#EXTINF:0 type="stream" , GOL
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/6.ts
+#EXTINF:0 type="stream" , COMEDIA
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/9.ts
+#EXTINF:0 type="stream" , Viva Nicaragua Canal 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1401" , TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2587" , MAX PRIME
+http://servicioamerica.net:1935/8348/8348/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1686" , GOL TV
+http://50.7.65.146/202/index.m3u8
+#EXTINF:0 type="stream" , DEPORTV
+http://190.57.234.164/V0/4/1.m3u8
+#EXTINF:0 type="stream" , DXTV
+http://190.57.234.164/V3/4/1.m3u8
+#EXTINF:0 type="stream" channelId="227" , AYM SPORTS
+http://190.57.234.164/V0/5/1.m3u8
+#EXTINF:0 type="stream" , AM Sports
+http://190.57.234.164/V3/5/1.m3u8
+#EXTINF:0 type="stream" , UFC NETWORK OPC 1
+http://190.57.234.164/V0/6/1.m3u8
+#EXTINF:0 type="stream" , UFC NETWORK OPC 2
+http://190.57.234.164/V0/6/2.m3u8
+#EXTINF:0 type="stream" , UFC Network OPC 3
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:0 type="stream" , UFC Network OPC 4
+http://190.57.234.164/V3/6/2.m3u8
+#EXTINF:0 type="stream" channelId="1592" , bein sports 2
+http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/17.ts
+#EXTINF:0 type="stream" , win sports latino
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0 type="stream" , DXTV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+#EXTINF:0 type="stream" channelId="287" , ClaroSports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
+#EXTINF:0 type="stream" channelId="225" , EUROSPORT 1HD
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:0 type="stream" , RED BULL TV HD usa
+https://elementaldelta2.redbull.tv/30_5.m3u8
+#EXTINF:0 type="stream" , Fail Tv usa
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
+#EXTINF:0 type="stream" , ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0 type="stream" , VIRGIN RADIO
+http://fms.105.net:1935/live/virgin1/.m3u8?
+#EXTINF:0 type="stream" , ESTRENO PPV GREMLINS
+https://1.bp.blogspot.com/U5Ds7cL-SAjVLbJwXTQUqxOD6svEfXb1BQVvdn-J_DkMr5GKbCFUbQVUWM4rYhDn66wsu4ehbQ=m15
+#EXTINF:0 type="stream" , ESTRENO PPV Sully
+http://byagustin@cort.as/pWER?iptvchile
+#EXTINF:0 type="stream" , ESTRENO PPV El Mecanico 2
+https://ia601506.us.archive.org/5/items/Th33pcial2/Th3_3%24pcial2.mp4
+#EXTINF:0 type="stream" , ESTRENO PPV Inferno
+https://onedrive.live.com/download?cid=D1C8A54A8182DE89&resid=D1C8A54A8182DE89!1783&authkey=!ADW6gv0yXudthZg
+#EXTINF:0 type="stream" , PPV  Mi Amigo El Gigante Latino
+https://onedrive.live.com/download?cid=B28F1B9702D791EA&resid=B28F1B9702D791EA%21312&authkey=AMxP4mExqT5bkk0
+#EXTINF:0 type="stream" , PPV  Peter y el Dragon
+https://onedrive.live.com/download?cid=B28F1B9702D791EA&resid=B28F1B9702D791EA%21310&authkey=AAMfiBlsYqR6-X4
+#EXTINF:0 type="stream" , PPV 1 Escuadron Suicida
+https://onedrive.live.com/download?cid=8BA83EC3113F8E2F&resid=8BA83EC3113F8E2F%21108&authkey=ADL3fN8lkTJiriw
+#EXTINF:0 type="stream" , PPV 2 Buscando a Dory
+https://onedrive.live.com/download?cid=8BA83EC3113F8E2F&resid=8BA83EC3113F8E2F%21107&authkey=AJwzs1ocAbSLq2o
+#EXTINF:0 type="stream" , PPV 3 Los Ilusionistas 2 Nada es lo que parece
+https://onedrive.live.com/download?cid=50032AD3A4385614&resid=50032AD3A4385614%21111&authkey=APyNG8JlCQl3MU4
+#EXTINF:0 type="stream" , PPV 4 Un Juego sin Reglas
+https://onedrive.live.com/download?cid=50032AD3A4385614&resid=50032AD3A4385614%21110&authkey=ALthTgiFnA5CWlA
+#EXTINF:0 type="stream" , PPV 5 Star Trek Sin Límites
+https://onedrive.live.com/download?cid=286196E287C83907&resid=286196E287C83907%21111&authkey=AOVrhXQYDn8s6h0
+#EXTINF:0 type="stream" , PPV 6 The Purge - Año de Elecciones
+https://onedrive.live.com/download?cid=286196E287C83907&resid=286196E287C83907%21110&authkey=AGqp4MCh8btrYCQ
+#EXTINF:0 type="stream" , PPV 7 Apuesta Maxima
+https://discontrol@goo.gl/RohWWR
+#EXTINF:0 type="stream" , PPV 8 Los Caza FantasmaS
+https://onedrive.live.com/download?cid=5A2A67AFFB0098A4&resid=5A2A67AFFB0098A4%21109&authkey=APEbrdQZLzYO3fQ
+#EXTINF:0 type="stream" , PPV 9 Una Pareja Dispareja
+https://onedrive.live.com/download?cid=328CBC1D46720CAA&resid=328CBC1D46720CAA%21108&authkey=APzATNWZmDoFmg8
+#EXTINF:0 type="stream" , PPV 10 Maldicion Ancestral
+https://onedrive.live.com/download?cid=328CBC1D46720CAA&resid=328CBC1D46720CAA%21111&authkey=AOJpMZ4wVAniblE
+#EXTINF:0 type="stream" , PPV 11 Los Busca Novias
+https://onedrive.live.com/download?cid=54D19E7BA016D9CC&resid=54D19E7BA016D9CC%21108&authkey=ABT1LprX2KfBsbg
+#EXTINF:0 type="stream" , PPV 12 Compadres
+https://onedrive.live.com/download?cid=54D19E7BA016D9CC&resid=54D19E7BA016D9CC%21109&authkey=AMmvK7c2qVBFrfA
+#EXTINF:0 type="stream" , PPV 13 La Vida Secreta De Tus Mascotas
+https://onedrive.live.com/download?cid=54D19E7BA016D9CC&resid=54D19E7BA016D9CC%21107&authkey=AA9m-RMKtmkPvgk
+#EXTINF:0 type="stream" , PPV 14 Infierno Azul
+https://onedrive.live.com/download?cid=54D19E7BA016D9CC&resid=54D19E7BA016D9CC%21106&authkey=ADSXj_1xJKT3JsM
+#EXTINF:0 type="stream" , PPV 15 Tortugas Ninja 2
+https://onedrive.live.com/download?cid=E2D3316A1B438A50&resid=E2D3316A1B438A50%21108&authkey=APWwzw21b3Vh15I
+#EXTINF:0 type="stream" , PPV 16 Dia de la Independencia 2
+https://onedrive.live.com/download?cid=50032AD3A4385614&resid=50032AD3A4385614%21109&authkey=ACsmYg7z4JfVKCA
+#EXTINF:0 type="stream" , PPV 17 Yo Antes De Ti
+https://onedrive.live.com/download?cid=4E55DF811B0EB258&resid=4E55DF811B0EB258%21110&authkey=ABelWmeC5_OdbkE
+#EXTINF:0 type="stream" , PPV 18 Buenos Vecinos 2
+https://onedrive.live.com/download?cid=4E55DF811B0EB258&resid=4E55DF811B0EB258%21109&authkey=AGLbo_xaFcAlHpk
+#EXTINF:0 type="stream" , PPV 19 La Era de Hielo 5
+https://onedrive.live.com/download?cid=2D0DC26A90CF9EB9&resid=2D0DC26A90CF9EB9%21129&authkey=AP709ZfbU9Y_VjA
+#EXTINF:0 type="stream" , PPV 20 El Conjuro 2
+https://onedrive.live.com/download?cid=2D0DC26A90CF9EB9&resid=2D0DC26A90CF9EB9%21128&authkey=AI3TSABSheorQDo
+#EXTINF:0 type="stream" , PPV 21 El Cazador y la Reina de Hielo
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:0 type="stream" , PPV 22 Warcraft
+https://onedrive.live.com/download?cid=2F89020F612E5211&resid=2F89020F612E5211%21107&authkey=AH_0J07T7zdaVp4
+#EXTINF:0 type="stream" , PPV 23 Mi Amigo El Gigante Latino
+https://onedrive.live.com/download?cid=B28F1B9702D791EA&resid=B28F1B9702D791EA%21312&authkey=AMxP4mExqT5bkk0
+#EXTINF:0 type="stream" , PPV 24 Peter y el Dragon
+https://onedrive.live.com/download?cid=B28F1B9702D791EA&resid=B28F1B9702D791EA%21310&authkey=AAMfiBlsYqR6-X4
+#EXTINF:-1,###UK Channels#####
+http://iptvserver.noip.me:8000/live/zorro/zorro/62.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 1 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/241.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 2 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/242.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 3 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/243.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 4 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/244.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 5 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/245.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 F1 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/246.m3u8
+#EXTINF:-1,UK: Premier Sporm3u8 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/364.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/363.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/362.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/361.m3u8
+#EXTINF:-1,UK: BT Sporm3u8 2
+http://iptvserver.noip.me:8000/live/zorro/zorro/249.m3u8
+#EXTINF:-1,UK: BT Sporm3u8 1
+http://iptvserver.noip.me:8000/live/zorro/zorro/250.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 F1
+http://iptvserver.noip.me:8000/live/zorro/zorro/197.m3u8
+#EXTINF:-1,UK: Sky Sporm3u81
+http://iptvserver.noip.me:8000/live/zorro/zorro/123.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 2
+http://iptvserver.noip.me:8000/live/zorro/zorro/1.m3u8
+#EXTINF:-1,UK: SkySporm3u83
+http://iptvserver.noip.me:8000/live/zorro/zorro/44.m3u8
+#EXTINF:-1,UK: SkySporm3u84
+http://iptvserver.noip.me:8000/live/zorro/zorro/57.m3u8
+#EXTINF:-1,UK: Sky Sporm3u8 5
+http://iptvserver.noip.me:8000/live/zorro/zorro/59.m3u8
+#EXTINF:-1,UK: eir Sport 1
+http://iptvserver.noip.me:8000/live/zorro/zorro/1768.m3u8
+#EXTINF:-1,UK: eirSport 2 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2095.m3u8
+#EXTINF:-1,UK: eirSport 2
+http://iptvserver.noip.me:8000/live/zorro/zorro/2013.m3u8
+#EXTINF:-1,UK: SG: 103 mio Stadium
+http://iptvserver.noip.me:8000/live/zorro/zorro/1943.m3u8
+#EXTINF:-1,UK: SG: 102 mio Stadium
+http://iptvserver.noip.me:8000/live/zorro/zorro/1942.m3u8
+#EXTINF:-1,UK: CTH Channel Stadium 1 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2110.m3u8
+#EXTINF:-1,UK: BT Sport ESPN
+http://iptvserver.noip.me:8000/live/zorro/zorro/2023.m3u8
+#EXTINF:-1,UK: BT Sport Europe
+http://iptvserver.noip.me:8000/live/zorro/zorro/365.m3u8
+#EXTINF:-1,UK: Eurosport1
+http://iptvserver.noip.me:8000/live/zorro/zorro/114.m3u8
+#EXTINF:-1,UK: Discovery Investigation
+http://iptvserver.noip.me:8000/live/zorro/zorro/677.m3u8
+#EXTINF:-1,UK: Sky SpNewsHQ
+http://iptvserver.noip.me:8000/live/zorro/zorro/165.m3u8
+#EXTINF:-1,UK: At The Races
+http://iptvserver.noip.me:8000/live/zorro/zorro/106.m3u8
+#EXTINF:-1,UK: London Live
+http://iptvserver.noip.me:8000/live/zorro/zorro/2081.m3u8
+#EXTINF:-1,UK: ITV3
+http://iptvserver.noip.me:8000/live/zorro/zorro/179.m3u8
+#EXTINF:-1,UK: ITV
+http://iptvserver.noip.me:8000/live/zorro/zorro/193.m3u8
+#EXTINF:-1,UK: VH1
+http://iptvserver.noip.me:8000/live/zorro/zorro/171.m3u8
+#EXTINF:-1,UK: BBC 1
+http://iptvserver.noip.me:8000/live/zorro/zorro/2106.m3u8
+#EXTINF:-1,UK: BBC 2
+http://iptvserver.noip.me:8000/live/zorro/zorro/2105.m3u8
+#EXTINF:-1,UK: BBC 3
+http://iptvserver.noip.me:8000/live/zorro/zorro/2107.m3u8
+#EXTINF:-1,UK: BBC One Lon
+http://iptvserver.noip.me:8000/live/zorro/zorro/190.m3u8
+#EXTINF:-1,UK: BBC One HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/140.m3u8
+#EXTINF:-1,UK: CBBC HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/196.m3u8
+#EXTINF:-1,UK: BBCFour
+http://iptvserver.noip.me:8000/live/zorro/zorro/50.m3u8
+#EXTINF:-1,UK: BBC Two HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/18.m3u8
+#EXTINF:-1,UK: BBCTwoEng
+http://iptvserver.noip.me:8000/live/zorro/zorro/27.m3u8
+#EXTINF:-1,UK: BBC NEWS HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/43.m3u8
+#EXTINF:-1,UK: UTV
+http://iptvserver.noip.me:8000/live/zorro/zorro/146.m3u8
+#EXTINF:-1,UK: TV5 Monde
+http://iptvserver.noip.me:8000/live/zorro/zorro/164.m3u8
+#EXTINF:-1,UK: TrueEnt
+http://iptvserver.noip.me:8000/live/zorro/zorro/195.m3u8
+#EXTINF:-1,UK: True Movies
+http://iptvserver.noip.me:8000/live/zorro/zorro/150.m3u8
+#EXTINF:-1,UK: True Drama
+http://iptvserver.noip.me:8000/live/zorro/zorro/167.m3u8
+#EXTINF:-1,UK: The Vault
+http://iptvserver.noip.me:8000/live/zorro/zorro/172.m3u8
+#EXTINF:-1,UK: WATCH
+http://iptvserver.noip.me:8000/live/zorro/zorro/247.m3u8
+#EXTINF:-1,UK: Spike
+http://iptvserver.noip.me:8000/live/zorro/zorro/145.m3u8
+#EXTINF:-1,UK: Sky2
+http://iptvserver.noip.me:8000/live/zorro/zorro/162.m3u8
+#EXTINF:-1,UK: Vintage TV
+http://iptvserver.noip.me:8000/live/zorro/zorro/2027.m3u8
+#EXTINF:-1,UK: SyFy
+http://iptvserver.noip.me:8000/live/zorro/zorro/2024.m3u8
+#EXTINF:-1,UK: Star Life OK
+http://iptvserver.noip.me:8000/live/zorro/zorro/2017.m3u8
+#EXTINF:-1,UK: ITVBe
+http://iptvserver.noip.me:8000/live/zorro/zorro/2020.m3u8
+#EXTINF:-1,UK: Discovery
+http://iptvserver.noip.me:8000/live/zorro/zorro/717.m3u8
+#EXTINF:-1,UK: Comedy Xtra
+http://iptvserver.noip.me:8000/live/zorro/zorro/2015.m3u8
+#EXTINF:-1,UK: Channel AKA
+http://iptvserver.noip.me:8000/live/zorro/zorro/2028.m3u8
+#EXTINF:-1,UK: Bike
+http://iptvserver.noip.me:8000/live/zorro/zorro/2025.m3u8
+#EXTINF:-1,UK: 4Music
+http://iptvserver.noip.me:8000/live/zorro/zorro/2018.m3u8
+#EXTINF:-1,UK: Sky Crime Thriller
+http://iptvserver.noip.me:8000/live/zorro/zorro/163.m3u8
+#EXTINF:-1,UK: Sky Jurassic
+http://iptvserver.noip.me:8000/live/zorro/zorro/177.m3u8
+#EXTINF:-1,UK: Sky Action
+http://iptvserver.noip.me:8000/live/zorro/zorro/180.m3u8
+#EXTINF:-1,UK: RT2
+http://iptvserver.noip.me:8000/live/zorro/zorro/184.m3u8
+#EXTINF:-1,UK: PBS America
+http://iptvserver.noip.me:8000/live/zorro/zorro/168.m3u8
+#EXTINF:-1,UK: Oireachtas
+http://iptvserver.noip.me:8000/live/zorro/zorro/161.m3u8
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptvserver.noip.me:8000/live/zorro/zorro/158.m3u8
+#EXTINF:-1,UK: MUTV
+http://iptvserver.noip.me:8000/live/zorro/zorro/149.m3u8
+#EXTINF:-1,UK: MUTV HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2096.m3u8
+#EXTINF:-1,UK: MTV Classic UK
+http://iptvserver.noip.me:8000/live/zorro/zorro/169.m3u8
+#EXTINF:-1,UK: MTV
+http://iptvserver.noip.me:8000/live/zorro/zorro/182.m3u8
+#EXTINF:-1,UK: movies4men
+http://iptvserver.noip.me:8000/live/zorro/zorro/187.m3u8
+#EXTINF:-1,UK: STV HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2102.m3u8
+#EXTINF:-1,UK: S4C HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2101.m3u8
+#EXTINF:-1,UK: RT HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2100.m3u8
+#EXTINF:-1,UK: CNN HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2094.m3u8
+#EXTINF:-1,UK: Cbeebies HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2103.m3u8
+#EXTINF:-1,UK: AND tv HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2097.m3u8
+#EXTINF:-1,UK: Al Jazeera HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2098.m3u8
+#EXTINF:-1,UK: More 4
+http://iptvserver.noip.me:8000/live/zorro/zorro/200.m3u8
+#EXTINF:-1,UK: Lifetime
+http://iptvserver.noip.me:8000/live/zorro/zorro/188.m3u8
+#EXTINF:-1,|UK| ITV ENCORE
+http://iptvserver.noip.me:8000/live/zorro/zorro/192.m3u8
+#EXTINF:-1,UK: ID
+http://iptvserver.noip.me:8000/live/zorro/zorro/153.m3u8
+#EXTINF:-1,UK: Horror Channel
+http://iptvserver.noip.me:8000/live/zorro/zorro/199.m3u8
+#EXTINF:-1,UK: FOX News
+http://iptvserver.noip.me:8000/live/zorro/zorro/154.m3u8
+#EXTINF:-1,UK: E!
+http://iptvserver.noip.me:8000/live/zorro/zorro/175.m3u8
+#EXTINF:-1,UK: DMAX
+http://iptvserver.noip.me:8000/live/zorro/zorro/166.m3u8
+#EXTINF:-1,UK: DisneyChnl
+http://iptvserver.noip.me:8000/live/zorro/zorro/194.m3u8
+#EXTINF:-1,UK: DiscScience
+http://iptvserver.noip.me:8000/live/zorro/zorro/183.m3u8
+#EXTINF:-1,UK: Disc Turbo
+http://iptvserver.noip.me:8000/live/zorro/zorro/144.m3u8
+#EXTINF:-1,UK: Dave
+http://iptvserver.noip.me:8000/live/zorro/zorro/735.m3u8
+#EXTINF:-1,UK: Boomerang
+http://iptvserver.noip.me:8000/live/zorro/zorro/736.m3u8
+#EXTINF:-1,UK: CITV
+http://iptvserver.noip.me:8000/live/zorro/zorro/147.m3u8
+#EXTINF:-1,UK: CHS TV
+http://iptvserver.noip.me:8000/live/zorro/zorro/198.m3u8
+#EXTINF:-1,UK: Channel4
+http://iptvserver.noip.me:8000/live/zorro/zorro/156.m3u8
+#EXTINF:-1,UK: CBS Drama
+http://iptvserver.noip.me:8000/live/zorro/zorro/191.m3u8
+#EXTINF:-1,UK: Boxupfront
+http://iptvserver.noip.me:8000/live/zorro/zorro/186.m3u8
+#EXTINF:-1,UK: BET
+http://iptvserver.noip.me:8000/live/zorro/zorro/143.m3u8
+#EXTINF:-1,UK: Universal
+http://iptvserver.noip.me:8000/live/zorro/zorro/2035.m3u8
+#EXTINF:-1,UK: Star GOLD
+http://iptvserver.noip.me:8000/live/zorro/zorro/248.m3u8
+#EXTINF:-1,UK: S4C
+http://iptvserver.noip.me:8000/live/zorro/zorro/2030.m3u8
+#EXTINF:-1,UK: Racing UK
+http://iptvserver.noip.me:8000/live/zorro/zorro/174.m3u8
+#EXTINF:-1,UK: Animal Planet
+http://iptvserver.noip.me:8000/live/zorro/zorro/181.m3u8
+#EXTINF:-1,UK: 5 Star
+http://iptvserver.noip.me:8000/live/zorro/zorro/185.m3u8
+#EXTINF:-1,UK: 4seven
+http://iptvserver.noip.me:8000/live/zorro/zorro/189.m3u8
+#EXTINF:-1,UK. Discovery
+http://iptvserver.noip.me:8000/live/zorro/zorro/98.m3u8
+#EXTINF:-1,UK: TV3
+http://iptvserver.noip.me:8000/live/zorro/zorro/121.m3u8
+#EXTINF:-1,UK: True Movies2
+http://iptvserver.noip.me:8000/live/zorro/zorro/133.m3u8
+#EXTINF:-1,UK: TLC
+http://iptvserver.noip.me:8000/live/zorro/zorro/137.m3u8
+#EXTINF:-1,UK: Tiny Pop
+http://iptvserver.noip.me:8000/live/zorro/zorro/130.m3u8
+#EXTINF:-1,UK: TG4
+http://iptvserver.noip.me:8000/live/zorro/zorro/128.m3u8
+#EXTINF:-1,UK: TCM
+http://iptvserver.noip.me:8000/live/zorro/zorro/136.m3u8
+#EXTINF:-1,UK: STV
+http://iptvserver.noip.me:8000/live/zorro/zorro/104.m3u8
+#EXTINF:-1,UK: SP News
+http://iptvserver.noip.me:8000/live/zorro/zorro/127.m3u8
+#EXTINF:-1,UK: SONY SAB
+http://iptvserver.noip.me:8000/live/zorro/zorro/141.m3u8
+#EXTINF:-1,UK: Good Food
+http://iptvserver.noip.me:8000/live/zorro/zorro/109.m3u8
+#EXTINF:-1,UK: SkyFamily
+http://iptvserver.noip.me:8000/live/zorro/zorro/102.m3u8
+#EXTINF:-1,UK: SkyComedy
+http://iptvserver.noip.me:8000/live/zorro/zorro/99.m3u8
+#EXTINF:-1,UK: Sky1
+http://iptvserver.noip.me:8000/live/zorro/zorro/122.m3u8
+#EXTINF:-1,UK: Sky ScFi Horror
+http://iptvserver.noip.me:8000/live/zorro/zorro/124.m3u8
+#EXTINF:-1,UK: Sky Premiere SD/HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/120.m3u8
+#EXTINF:-1,UK: Sky Living
+http://iptvserver.noip.me:8000/live/zorro/zorro/119.m3u8
+#EXTINF:-1,UK: Sky Disney
+http://iptvserver.noip.me:8000/live/zorro/zorro/142.m3u8
+#EXTINF:-1,UK: Sky Atlantic
+http://iptvserver.noip.me:8000/live/zorro/zorro/135.m3u8
+#EXTINF:-1,UK: Show Biz
+http://iptvserver.noip.me:8000/live/zorro/zorro/113.m3u8
+#EXTINF:-1,UK: Scuzz
+http://iptvserver.noip.me:8000/live/zorro/zorro/134.m3u8
+#EXTINF:-1,UK: RT News Now
+http://iptvserver.noip.me:8000/live/zorro/zorro/132.m3u8
+#EXTINF:-1,UK: POP
+http://iptvserver.noip.me:8000/live/zorro/zorro/101.m3u8
+#EXTINF:-1,UK: NickJr
+http://iptvserver.noip.me:8000/live/zorro/zorro/138.m3u8
+#EXTINF:-1,UK: MTV ROCKS
+http://iptvserver.noip.me:8000/live/zorro/zorro/111.m3u8
+#EXTINF:-1,UK: MTV MUSIC
+http://iptvserver.noip.me:8000/live/zorro/zorro/100.m3u8
+#EXTINF:-1,UK: MTV DANCE
+http://iptvserver.noip.me:8000/live/zorro/zorro/115.m3u8
+#EXTINF:-1,UK: MRTOne
+http://iptvserver.noip.me:8000/live/zorro/zorro/110.m3u8
+#EXTINF:-1,UK: ITVEncore
+http://iptvserver.noip.me:8000/live/zorro/zorro/131.m3u8
+#EXTINF:-1,UK: Inspiration
+http://iptvserver.noip.me:8000/live/zorro/zorro/116.m3u8
+#EXTINF:-1,UK: Horse Country
+http://iptvserver.noip.me:8000/live/zorro/zorro/118.m3u8
+#EXTINF:-1,UK: History
+http://iptvserver.noip.me:8000/live/zorro/zorro/107.m3u8
+#EXTINF:-1,UK: Hillsong
+http://iptvserver.noip.me:8000/live/zorro/zorro/139.m3u8
+#EXTINF:-1,UK: FoodNetwork
+http://iptvserver.noip.me:8000/live/zorro/zorro/103.m3u8
+#EXTINF:-1,UK: FLAVA
+http://iptvserver.noip.me:8000/live/zorro/zorro/125.m3u8
+#EXTINF:-1,UK: DisneyXD
+http://iptvserver.noip.me:8000/live/zorro/zorro/112.m3u8
+#EXTINF:-1,UK: CrimeInv
+http://iptvserver.noip.me:8000/live/zorro/zorro/105.m3u8
+#EXTINF:-1,UK: Community
+http://iptvserver.noip.me:8000/live/zorro/zorro/117.m3u8
+#EXTINF:-1,UK: Channel 4 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/126.m3u8
+#EXTINF:-1,UK: BabyTV
+http://iptvserver.noip.me:8000/live/zorro/zorro/108.m3u8
+#EXTINF:-1,UK:  FOX
+http://iptvserver.noip.me:8000/live/zorro/zorro/129.m3u8
+#EXTINF:-1,UK. TrueDrama
+http://iptvserver.noip.me:8000/live/zorro/zorro/95.m3u8
+#EXTINF:-1,UK. NickJrToo
+http://iptvserver.noip.me:8000/live/zorro/zorro/86.m3u8
+#EXTINF:-1,UK. ITVBe
+http://iptvserver.noip.me:8000/live/zorro/zorro/67.m3u8
+#EXTINF:-1,UK: Sky MOVIES THRILLER UK
+http://iptvserver.noip.me:8000/live/zorro/zorro/80.m3u8
+#EXTINF:-1,UK: Sky Select
+http://iptvserver.noip.me:8000/live/zorro/zorro/61.m3u8
+#EXTINF:-1,UK: SkyJurassic
+http://iptvserver.noip.me:8000/live/zorro/zorro/74.m3u8
+#EXTINF:-1,UK: RTjr
+http://iptvserver.noip.me:8000/live/zorro/zorro/73.m3u8
+#EXTINF:-1,UK: Pick
+http://iptvserver.noip.me:8000/live/zorro/zorro/91.m3u8
+#EXTINF:-1,UK: Nickelodeon
+http://iptvserver.noip.me:8000/live/zorro/zorro/71.m3u8
+#EXTINF:-1,UK: National Geographic
+http://iptvserver.noip.me:8000/live/zorro/zorro/93.m3u8
+#EXTINF:-1,UK: Kix
+http://iptvserver.noip.me:8000/live/zorro/zorro/88.m3u8
+#EXTINF:-1,UK: HomeHealth
+http://iptvserver.noip.me:8000/live/zorro/zorro/63.m3u8
+#EXTINF:-1,|VIP UK| BOX OFFICE PPV (LIVE DURING BOXING MATCH)
+http://iptvserver.noip.me:8000/live/zorro/zorro/65.m3u8
+#EXTINF:-1,UK: H2.UK
+http://iptvserver.noip.me:8000/live/zorro/zorro/66.m3u8
+#EXTINF:-1,UK: France Eng
+http://iptvserver.noip.me:8000/live/zorro/zorro/96.m3u8
+#EXTINF:-1,UK: DiscoveryShed
+http://iptvserver.noip.me:8000/live/zorro/zorro/89.m3u8
+#EXTINF:-1,UK: ComedyCentral
+http://iptvserver.noip.me:8000/live/zorro/zorro/84.m3u8
+#EXTINF:-1,UK: Channel5
+http://iptvserver.noip.me:8000/live/zorro/zorro/70.m3u8
+#EXTINF:-1,UK: CBS Reality
+http://iptvserver.noip.me:8000/live/zorro/zorro/64.m3u8
+#EXTINF:-1,UK: 5 USA
+http://iptvserver.noip.me:8000/live/zorro/zorro/58.m3u8
+#EXTINF:-1,UK: VivaUK
+http://iptvserver.noip.me:8000/live/zorro/zorro/52.m3u8
+#EXTINF:-1,UK: ITV2
+http://iptvserver.noip.me:8000/live/zorro/zorro/38.m3u8
+#EXTINF:-1,UK: truTV
+http://iptvserver.noip.me:8000/live/zorro/zorro/24.m3u8
+#EXTINF:-1,UK: TravelChannel
+http://iptvserver.noip.me:8000/live/zorro/zorro/19.m3u8
+#EXTINF:-1,|UK| LIVERPOOL FC
+http://iptvserver.noip.me:8000/live/zorro/zorro/23.m3u8
+#EXTINF:-1,UK: SkyNews
+http://iptvserver.noip.me:8000/live/zorro/zorro/20.m3u8
+#EXTINF:-1,UK: Now Xmas
+http://iptvserver.noip.me:8000/live/zorro/zorro/40.m3u8
+#EXTINF:-1,UK: SkyArm3u8
+http://iptvserver.noip.me:8000/live/zorro/zorro/34.m3u8
+#EXTINF:-1,UK: RealLives
+http://iptvserver.noip.me:8000/live/zorro/zorro/53.m3u8
+#EXTINF:-1,UK: QUEST
+http://iptvserver.noip.me:8000/live/zorro/zorro/22.m3u8
+#EXTINF:-1,UK: Nicktoons
+http://iptvserver.noip.me:8000/live/zorro/zorro/29.m3u8
+#EXTINF:-1,UK: MTV HIm3u8
+http://iptvserver.noip.me:8000/live/zorro/zorro/17.m3u8
+#EXTINF:-1,UK: MTV BASE
+http://iptvserver.noip.me:8000/live/zorro/zorro/36.m3u8
+#EXTINF:-1,UK: Itv HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/35.m3u8
+#EXTINF:-1,UK: ITV4
+http://iptvserver.noip.me:8000/live/zorro/zorro/46.m3u8
+#EXTINF:-1,UK: Film4
+http://iptvserver.noip.me:8000/live/zorro/zorro/30.m3u8
+#EXTINF:-1,UK: Eurosport2
+http://iptvserver.noip.me:8000/live/zorro/zorro/3.m3u8
+#EXTINF:-1,UK: Disney Junior
+http://iptvserver.noip.me:8000/live/zorro/zorro/28.m3u8
+#EXTINF:-1,UK: DiscHistory
+http://iptvserver.noip.me:8000/live/zorro/zorro/32.m3u8
+#EXTINF:-1,UK: ComedyXtra
+http://iptvserver.noip.me:8000/live/zorro/zorro/21.m3u8
+#EXTINF:-1,UK: ChelseaTV
+http://iptvserver.noip.me:8000/live/zorro/zorro/48.m3u8
+#EXTINF:-1,UK: Chart Show TV
+http://iptvserver.noip.me:8000/live/zorro/zorro/41.m3u8
+#EXTINF:-1,UK: CBSAction
+http://iptvserver.noip.me:8000/live/zorro/zorro/26.m3u8
+#EXTINF:-1,UK: Cbeebies
+http://iptvserver.noip.me:8000/live/zorro/zorro/2.m3u8
+#EXTINF:-1,UK: RT ONE
+http://iptvserver.noip.me:8000/live/zorro/zorro/2043.m3u8
+#EXTINF:-1,UK: Cartoonito
+http://iptvserver.noip.me:8000/live/zorro/zorro/25.m3u8
+#EXTINF:-1,UK: Movies24
+http://iptvserver.noip.me:8000/live/zorro/zorro/2040.m3u8
+#EXTINF:-1,UK: FOX
+http://iptvserver.noip.me:8000/live/zorro/zorro/2045.m3u8
+#EXTINF:-1,UK: E4
+http://iptvserver.noip.me:8000/live/zorro/zorro/2036.m3u8
+#EXTINF:-1,UK: AlJazeeraEng
+http://iptvserver.noip.me:8000/live/zorro/zorro/31.m3u8
+#EXTINF:-1,UK: ELEVEN SPORT HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2044.m3u8
+#EXTINF:-1,UK: Sky News Arabia
+http://iptvserver.noip.me:8000/live/zorro/zorro/2031.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 1 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/253.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 2 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/254.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 3 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/255.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 4 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/256.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 5 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/257.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 6 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/258.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 7 HD/SD
+http://iptvserver.noip.me:8000/live/zorro/zorro/259.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 8 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/260.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 9 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/261.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 10 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/262.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 11 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/263.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 12 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/264.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 13 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/265.m3u8
+#EXTINF:-1,AR: BeIN Sporm3u8 14 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/266.m3u8
+#EXTINF:-1,UK: BEIN SPORm3u8 15  HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2155.m3u8
+#EXTINF:-1,UK: BEIN SPORm3u8 16 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2156.m3u8
+#EXTINF:-1,UK: BEIN SPORm3u8 17 HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2157.m3u8
+#EXTINF:-1,OSN:BEIN-MOVIES1
+http://iptvserver.noip.me:8000/live/zorro/zorro/1902.m3u8
+#EXTINF:-1,OSN: BEIN-MOVIES 2
+http://iptvserver.noip.me:8000/live/zorro/zorro/1903.m3u8
+#EXTINF:-1,OSN: BEIN-MOVIES 3
+http://iptvserver.noip.me:8000/live/zorro/zorro/1904.m3u8
+#EXTINF:-1,OSN: BEIN-MOVIES 4
+http://iptvserver.noip.me:8000/live/zorro/zorro/1905.m3u8
+#EXTINF:-1,XXX: Adult
+http://iptvserver.noip.me:8000/live/zorro/zorro/267.m3u8
+#EXTINF:-1,####Norway & sweden tv######
+http://iptvserver.noip.me:8000/live/zorro/zorro/60.m3u8
+#EXTINF:-1,TV4 Fakta SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/83.m3u8
+#EXTINF:-1,Viasat Sport Premium SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/913.m3u8
+#EXTINF:-1,Viasam3u8port Norge
+http://iptvserver.noip.me:8000/live/zorro/zorro/915.m3u8
+#EXTINF:-1,Viasat 4 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/85.m3u8
+#EXTINF:-1,Viasat Sport Sverige SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/92.m3u8
+#EXTINF:-1,Viasat Nature Playboy SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/90.m3u8
+#EXTINF:-1,Viasat Motor SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/94.m3u8
+#EXTINF:-1,Viasat Hockey SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/87.m3u8
+#EXTINF:-1,Viasat Film Premiere SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/79.m3u8
+#EXTINF:-1,Viasat Film Family SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/78.m3u8
+#EXTINF:-1,Viasat Film Action SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/77.m3u8
+#EXTINF:-1,Viasat Golf SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/12.m3u8
+#EXTINF:-1,Viasat Explore /S/D/N/F
+http://iptvserver.noip.me:8000/live/zorro/zorro/2108.m3u8
+#EXTINF:-1,Viasat Fotball SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/49.m3u8
+#EXTINF:-1,TV4 Guld SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/918.m3u8
+#EXTINF:-1,TV4 Film SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/930.m3u8
+#EXTINF:-1,TV3 Sport 2 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/917.m3u8
+#EXTINF:-1,TV2 Zebra SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/912.m3u8
+#EXTINF:-1,TV2 SK news
+http://iptvserver.noip.me:8000/live/zorro/zorro/931.m3u8
+#EXTINF:-1,TV2 Nyhem3u8kanalen SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/926.m3u8
+#EXTINF:-1,SVTB SVT 24
+http://iptvserver.noip.me:8000/live/zorro/zorro/910.m3u8
+#EXTINF:-1,SVT2 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/928.m3u8
+#EXTINF:-1,SVT1 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/927.m3u8
+#EXTINF:-1,Sjuan SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/929.m3u8
+#EXTINF:-1,SBN International SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/911.m3u8
+#EXTINF:-1,Nickelodeon DK MTV Him3u8
+http://iptvserver.noip.me:8000/live/zorro/zorro/919.m3u8
+#EXTINF:-1,Nat Geo Wild SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/920.m3u8
+#EXTINF:-1,Nat Geo Wild /S/D/N
+http://iptvserver.noip.me:8000/live/zorro/zorro/1687.m3u8
+#EXTINF:-1,NOR: NAT GEO WILD
+http://iptvserver.noip.me:8000/live/zorro/zorro/2050.m3u8
+#EXTINF:-1,Eurosport DK
+http://iptvserver.noip.me:8000/live/zorro/zorro/925.m3u8
+#EXTINF:-1,DK 4
+http://iptvserver.noip.me:8000/live/zorro/zorro/924.m3u8
+#EXTINF:-1,Disney Jr /S/D/N/F
+http://iptvserver.noip.me:8000/live/zorro/zorro/923.m3u8
+#EXTINF:-1,Disney Channel DK
+http://iptvserver.noip.me:8000/live/zorro/zorro/922.m3u8
+#EXTINF:-1,Canal 9 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/921.m3u8
+#EXTINF:-1,TV3 Sport1 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/916.m3u8
+#EXTINF:-1,TV3 Sverige SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/75.m3u8
+#EXTINF:-1,TV3 PLUS SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/82.m3u8
+#EXTINF:-1,TV3 Norge SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/72.m3u8
+#EXTINF:-1,TV3 Denmark SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/69.m3u8
+#EXTINF:-1,TV 6 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/76.m3u8
+#EXTINF:-1,TV 10 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/68.m3u8
+#EXTINF:-1,MTV SE
+http://iptvserver.noip.me:8000/live/zorro/zorro/81.m3u8
+#EXTINF:-1,TV4 Komedi SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/47.m3u8
+#EXTINF:-1,TV4 Fakta XL SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/45.m3u8
+#EXTINF:-1,TV2 Zulu SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/11.m3u8
+#EXTINF:-1,TV2 Sport SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/10.m3u8
+#EXTINF:-1,TV2 Norge SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/39.m3u8
+#EXTINF:-1,TV2 News SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/9.m3u8
+#EXTINF:-1,TV2 Fri SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/8.m3u8
+#EXTINF:-1,TV2 Charlie SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/7.m3u8
+#EXTINF:-1,TV8 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/16.m3u8
+#EXTINF:-1,TV6 Norway
+http://iptvserver.noip.me:8000/live/zorro/zorro/914.m3u8
+#EXTINF:-1,TV 12 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/42.m3u8
+#EXTINF:-1,NRK 3 SK NRK Super
+http://iptvserver.noip.me:8000/live/zorro/zorro/51.m3u8
+#EXTINF:-1,NRK 2 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/55.m3u8
+#EXTINF:-1,NRK 1 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/54.m3u8
+#EXTINF:-1,MTV DK
+http://iptvserver.noip.me:8000/live/zorro/zorro/15.m3u8
+#EXTINF:-1,Kanal 5 Denmark
+http://iptvserver.noip.me:8000/live/zorro/zorro/33.m3u8
+#EXTINF:-1,Kanal 4 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/37.m3u8
+#EXTINF:-1,DR1 SK Denmark
+http://iptvserver.noip.me:8000/live/zorro/zorro/13.m3u8
+#EXTINF:-1,DR Ultra SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/6.m3u8
+#EXTINF:-1,DR Ramasjang SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/5.m3u8
+#EXTINF:-1,DR 2 SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/14.m3u8
+#EXTINF:-1,Disney Jr SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/56.m3u8
+#EXTINF:-1,DRK SK
+http://iptvserver.noip.me:8000/live/zorro/zorro/4.m3u8
+#EXTINF:-1,DK: Kanall 4 DK
+http://iptvserver.noip.me:8000/live/zorro/zorro/2052.m3u8
+#EXTINF:-1,DK: Kanall 5 DK
+http://iptvserver.noip.me:8000/live/zorro/zorro/2051.m3u8
+#EXTINF:-1,DK: TV3+
+http://iptvserver.noip.me:8000/live/zorro/zorro/2046.m3u8
+#EXTINF:-1,DK: TV3 SPORT 1
+http://iptvserver.noip.me:8000/live/zorro/zorro/2048.m3u8
+#EXTINF:-1,DK: TV3 SPORT 2
+http://iptvserver.noip.me:8000/live/zorro/zorro/2047.m3u8
+#EXTINF:-1,DK: TV3 Denmark
+http://iptvserver.noip.me:8000/live/zorro/zorro/2049.m3u8
+#EXTINF:-1,SW: KANAL 9
+http://iptvserver.noip.me:8000/live/zorro/zorro/2053.m3u8
+#EXTINF:-1,SC: TV2 News
+http://iptvserver.noip.me:8000/live/zorro/zorro/279.m3u8
+#EXTINF:-1,SC: Kanal 5 Sverige
+http://iptvserver.noip.me:8000/live/zorro/zorro/269.m3u8
+#EXTINF:-1,SC: C More Sport
+http://iptvserver.noip.me:8000/live/zorro/zorro/296.m3u8
+#EXTINF:-1,SC: C More Hockey
+http://iptvserver.noip.me:8000/live/zorro/zorro/297.m3u8
+#EXTINF:-1,SC: C More First
+http://iptvserver.noip.me:8000/live/zorro/zorro/299.m3u8
+#EXTINF:-1,SC: C More Fotboll
+http://iptvserver.noip.me:8000/live/zorro/zorro/298.m3u8
+#EXTINF:-1,|SE| C MORE SERIES
+http://iptvserver.noip.me:8000/live/zorro/zorro/387.m3u8
+#EXTINF:-1,|SE| C MORE LIVE
+http://iptvserver.noip.me:8000/live/zorro/zorro/388.m3u8
+#EXTINF:-1,|SE| C MORE HIm3u8
+http://iptvserver.noip.me:8000/live/zorro/zorro/386.m3u8
+#EXTINF:-1,|SE| C MORE FOOTBALL
+http://iptvserver.noip.me:8000/live/zorro/zorro/389.m3u8
+#EXTINF:-1,USA: NBC Golf
+http://iptvserver.noip.me:8000/live/zorro/zorro/390.m3u8
+#EXTINF:-1,SC: C More Series HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/392.m3u8
+#EXTINF:-1,SC: C More GOLF
+http://iptvserver.noip.me:8000/live/zorro/zorro/391.m3u8
+#EXTINF:-1,XXX ADULm3u8
+http://iptvserver.noip.me:8000/live/zorro/zorro/500.m3u8
+#EXTINF:-1,AR_OSN.Movies.Premiere.plus.2
+http://iptvserver.noip.me:8000/live/zorro/zorro/582.m3u8
+#EXTINF:-1,AR_OSN.Movies.Premiere.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/581.m3u8
+#EXTINF:-1,AR_OSN.Movies.Festival.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/586.m3u8
+#EXTINF:-1,AR_OSN.Movies.Drama.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/587.m3u8
+#EXTINF:-1,AR_OSN.Movies.Comedy.Plus2.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/580.m3u8
+#EXTINF:-1,AR_OSN.Movies.Comedy.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/588.m3u8
+#EXTINF:-1,AR_OSN.Movies.Action2.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/585.m3u8
+#EXTINF:-1,AR_OSN.MOVIE.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/583.m3u8
+#EXTINF:-1,OSN: STAR-WORLD
+http://iptvserver.noip.me:8000/live/zorro/zorro/1906.m3u8
+#EXTINF:-1,AR_OSN_Star_Movies_HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/589.m3u8
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-3HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/573.m3u8
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-2HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/572.m3u8
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-1HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/571.m3u8
+#EXTINF:-1,AR_OSN_ON-DEMAND-3HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/576.m3u8
+#EXTINF:-1,AR_OSN_ON-DEMAND-2HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/575.m3u8
+#EXTINF:-1,AR_OSN_ON-DEMAND-1HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/574.m3u8
+#EXTINF:-1,AR_OSN_Movies.Action.HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/584.m3u8
+#EXTINF:-1,AR_OSN_Movies-Box-Office-3HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/579.m3u8
+#EXTINF:-1,AR_OSN_Movies-Box-Office-2HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/578.m3u8
+#EXTINF:-1,AR_OSN_Movies-Box-Office-1HD
+http://iptvserver.noip.me:8000/live/zorro/zorro/577.m3u8
+
+#EXTINF:-1,===== bein 1 ============
+rtmp://149.202.206.50/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 2
+rtmp://149.202.206.50/myapp/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 3
+rtmp://149.202.206.50/myapp/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 4
+rtmp://149.202.206.50/myapp/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 5
+rtmp://149.202.206.50/myapp/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein6
+rtmp://149.202.206.50/myapp/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 7
+rtmp://149.202.206.50/myapp/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 8
+rtmp://149.202.206.50/myapp/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 9
+rtmp://149.202.206.50/myapp/935?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 10
+rtmp://149.202.206.50/myapp/936?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,============ bein stream 2 ============
+rtmp://149.202.206.50:1935927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein 10
+rtmp://149.202.206.50:1935936?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein fr1
+rtmp://149.202.206.50:1935996?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein fr 2
+rtmp://149.202.206.50:1935995?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,Bein fr3
+rtmp://149.202.206.50:1935994?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,SLO1
+http://89.142.229.13:1234/udp/232.4.1.1:5002
+#EXTINF:-1,Slovenija 1 HD
+http://89.142.229.13:1234/udp/232.4.1.53:5002
+#EXTINF:-1,SLO2
+http://89.142.229.13:1234/udp/232.4.1.2:5002
+#EXTINF:-1,Slovenija 2 HD
+http://89.142.229.13:1234/udp/232.4.1.54:5002
+#EXTINF:-1,SLO 3
+http://89.142.229.13:1234/udp/232.4.1.41:5002
+#EXTINF:-1,RTS Maribor
+http://89.142.229.13:1234/udp/232.4.1.15:5002
+#EXTINF:-1,Tele M
+http://89.142.229.13:1234/udp/232.4.1.37:5002
+#EXTINF:-1,TV Koper Capodistria
+http://89.142.229.13:1234/udp/232.4.1.18:5002
+#EXTINF:-1,Planet TV
+http://89.142.229.13:1234/udp/232.4.1.56:5002
+#EXTINF:-1,Planet TV HD
+http://89.142.229.13:1234/udp/232.4.1.102:5002
+#EXTINF:-1,Planet TV HD
+http://89.142.229.13:1234/udp/232.4.1.55:5002
+#EXTINF:-1,POP TV
+http://89.142.229.13:1234/udp/232.4.1.3:5002
+#EXTINF:-1,POP Brio
+http://89.142.229.13:1234/udp/232.4.9.1:5002
+#EXTINF:-1,POP Kino
+http://89.142.229.13:1234/udp/232.4.9.2:5002
+#EXTINF:-1,POP Oto
+http://89.142.229.13:1234/udp/232.4.9.4:5002
+#EXTINF:-1,Carli TV
+http://89.142.229.13:1234/udp/232.4.1.10:5002
+#EXTINF:-1,Kanal A
+http://89.142.229.13:1234/udp/232.4.1.4:5002
+#EXTINF:-1,Arena TV
+http://89.142.229.13:1234/udp/232.4.1.42:5002
+#EXTINF:-1,TV3 Medias
+http://89.142.229.13:1234/udp/232.4.1.47:5002
+#EXTINF:-1,Info TV
+http://89.142.229.13:1234/udp/232.4.1.9:5002
+#EXTINF:-1,Sponka TV
+http://89.142.229.13:1234/udp/232.4.1.16:5002
+#EXTINF:-1,TV Veseljak
+http://89.142.229.13:1234/udp/232.4.1.13:5002
+#EXTINF:-1,NET TV
+http://89.142.229.13:1234/udp/232.4.1.14:5002
+#EXTINF:-1,TV Primorka
+http://89.142.229.13:1234/udp/232.4.1.31:5002
+#EXTINF:-1,TV Petelin
+http://89.142.229.13:1234/udp/232.4.1.36:5002
+#EXTINF:-1,Vitel
+http://89.142.229.13:1234/udp/232.4.1.35:5002
+#EXTINF:-1,Golica TV
+http://89.142.229.13:1234/udp/232.4.1.19:5002
+#EXTINF:-1,TV As
+http://89.142.229.13:1234/udp/232.4.1.39:5002
+#EXTINF:-1,VTV
+http://89.142.229.13:1234/udp/232.4.1.17:5002
+#EXTINF:-1,Gostilna
+http://89.142.229.13:1234/udp/232.4.9.7:5002
+#EXTINF:-1,Vas Kanal
+http://89.142.229.13:1234/udp/232.4.1.20:5002
+#EXTINF:-1,SIP TV
+http://89.142.229.13:1234/udp/232.4.1.38:5002
+#EXTINF:-1,Kanal 10 / Idea TV
+http://89.142.229.13:1234/udp/232.4.1.40:5002
+#EXTINF:-1,PeTV
+http://89.142.229.13:1234/udp/232.4.1.50:5002
+#EXTINF:-1,TV Celje
+http://89.142.229.13:1234/udp/232.4.1.46:5002
+#EXTINF:-1,HRT1
+http://89.142.229.13:1234/udp/232.4.1.6:5002
+#EXTINF:-1,HRT2
+http://89.142.229.13:1234/udp/232.4.1.7:5002
+#EXTINF:-1,RTL Hrvatska
+http://89.142.229.13:1234/udp/232.4.11.11:5002
+#EXTINF:-1,RTL 2 Hrvatska
+http://89.142.229.13:1234/udp/232.4.11.18:5002
+#EXTINF:-1,RTL Plus
+http://89.142.229.13:1234/udp/232.4.11.21:5002
+#EXTINF:-1,JabukaTV
+http://89.142.229.13:1234/udp/232.4.11.22:5002
+#EXTINF:-1,Narodna TV
+http://89.142.229.13:1234/udp/232.4.11.24:5002
+#EXTINF:-1,MrezaTV
+http://89.142.229.13:1234/udp/232.4.11.25:5002
+#EXTINF:-1,TV Jadran
+http://89.142.229.13:1234/udp/232.4.11.26:5002
+#EXTINF:-1,Z 1 - Zagrebacka TV
+http://89.142.229.13:1234/udp/232.4.11.29:5002
+#EXTINF:-1,Tv Istra
+http://89.142.229.13:1234/udp/232.4.11.27:5002
+#EXTINF:-1,Atlas TV
+http://89.142.229.13:1234/udp/232.4.11.52:5002
+#EXTINF:-1,RT Crna gora
+http://89.142.229.13:1234/udp/232.4.1.23:5002
+#EXTINF:-1,BHT 1
+http://89.142.229.13:1234/udp/232.4.11.13:5002
+#EXTINF:-1,OBN
+http://89.142.229.13:1234/udp/232.4.3.48:5002
+#EXTINF:-1,TV 1
+http://89.142.229.13:1234/udp/232.4.11.19:5002
+#EXTINF:-1,Federalna TV
+http://89.142.229.13:1234/udp/232.4.11.14:5002
+#EXTINF:-1,NTVC
+http://89.142.229.13:1234/udp/232.4.11.15:5002
+#EXTINF:-1,TVSA.ba
+http://89.142.229.13:1234/udp/232.4.11.20:5002
+#EXTINF:-1,OTV Valentino
+http://89.142.229.13:1234/udp/232.4.11.16:5002
+#EXTINF:-1,RTRS
+http://89.142.229.13:1234/udp/232.4.11.17:5002
+#EXTINF:-1,BN TV
+http://89.142.229.13:1234/udp/232.4.3.26:5002
+#EXTINF:-1,Hayat
+http://89.142.229.13:1234/udp/232.4.1.21:5002
+#EXTINF:-1,Elta Televizija 1 HD
+http://89.142.229.13:1234/udp/232.4.1.52:5002
+#EXTINF:-1,Elta Televizija 2
+http://89.142.229.13:1234/udp/232.4.11.12:5002
+#EXTINF:-1,Hema Sarajevo
+http://89.142.229.13:1234/udp/232.4.1.51:5002
+#EXTINF:-1,MRT 1
+http://89.142.229.13:1234/udp/232.4.11.33:5002
+#EXTINF:-1,MRT 2
+http://89.142.229.13:1234/udp/232.4.11.34:5002
+#EXTINF:-1,MRT 3
+http://89.142.229.13:1234/udp/232.4.11.35:5002
+#EXTINF:-1,Nasa TV
+http://89.142.229.13:1234/udp/232.4.11.36:5002
+#EXTINF:-1,Sitel TV
+http://89.142.229.13:1234/udp/232.4.11.39:5002
+#EXTINF:-1,Sitel 3
+http://89.142.229.13:1234/udp/232.4.11.37:5002
+#EXTINF:-1,MKTV
+http://89.142.229.13:1234/udp/232.4.1.25:5002
+#EXTINF:-1,Alfa TV
+http://89.142.229.13:1234/udp/232.4.11.30:5002
+#EXTINF:-1,Kanal 5
+http://89.142.229.13:1234/udp/232.4.11.31:5002
+#EXTINF:-1,Kanal 5 Plus
+http://89.142.229.13:1234/udp/232.4.11.32:5002
+#EXTINF:-1,Telma TV
+http://89.142.229.13:1234/udp/232.4.11.38:5002
+#EXTINF:-1,RTS 1
+http://89.142.229.13:1234/udp/232.4.11.47:5002
+#EXTINF:-1,RTS 2
+http://89.142.229.13:1234/udp/232.4.11.48:5002
+#EXTINF:-1,Prva
+http://89.142.229.13:1234/udp/232.4.11.46:5002
+#EXTINF:-1,Duga +
+http://89.142.229.13:1234/udp/232.4.11.49:5002
+#EXTINF:-1,B 92
+http://89.142.229.13:1234/udp/232.4.11.40:5002
+#EXTINF:-1,B92 Info
+http://89.142.229.13:1234/udp/232.4.11.41:5002
+#EXTINF:-1,Happy TV
+http://89.142.229.13:1234/udp/232.4.11.42:5002
+#EXTINF:-1,Vikom Radio Televizija
+http://89.142.229.13:1234/udp/232.4.11.43:5002
+#EXTINF:-1,KCN 1
+http://89.142.229.13:1234/udp/232.4.11.44:5002
+#EXTINF:-1,KCN 2
+http://89.142.229.13:1234/udp/232.4.11.45:5002
+#EXTINF:-1,KCN 3
+http://89.142.229.13:1234/udp/232.4.11.53:5002
+#EXTINF:-1,RT Srbija
+http://89.142.229.13:1234/udp/232.4.1.22:5002
+#EXTINF:-1,KohaVision
+http://89.142.229.13:1234/udp/232.4.11.51:5002
+#EXTINF:-1,RTK
+http://89.142.229.13:1234/udp/232.4.1.24:5002
+#EXTINF:-1,Folk +
+http://89.142.229.13:1234/udp/232.4.11.3:5002
+#EXTINF:-1,RTV 21
+http://89.142.229.13:1234/udp/232.4.11.10:5002
+#EXTINF:-1,Vizion Plus
+http://89.142.229.13:1234/udp/232.4.11.9:5002
+#EXTINF:-1,Tring Tring
+http://89.142.229.13:1234/udp/232.4.11.8:5002
+#EXTINF:-1,Tring Shqip
+http://89.142.229.13:1234/udp/232.4.11.7:5002
+#EXTINF:-1,Tring Max
+http://89.142.229.13:1234/udp/232.4.11.6:5002
+#EXTINF:-1,Kanali 7
+http://89.142.229.13:1234/udp/232.4.11.5:5002
+#EXTINF:-1,Alsat-M
+http://89.142.229.13:1234/udp/232.4.11.2:5002
+#EXTINF:-1,RTV 21 Plus
+http://89.142.229.13:1234/udp/232.4.11.4:5002
+#EXTINF:-1,Cartoon/TCM
+http://89.142.229.13:1234/udp/232.4.2.33:5002
+#EXTINF:-1,KidsCo
+http://89.142.229.13:1234/udp/232.4.3.5:5002
+#EXTINF:-1,Minimax
+http://89.142.229.13:1234/udp/232.4.2.41:5002
+#EXTINF:-1,Minimax
+http://89.142.229.13:1234/udp/232.2.2.41:5002
+#EXTINF:-1,JimJam
+http://89.142.229.13:1234/udp/232.4.3.3:5002
+#EXTINF:-1,Disney XD
+http://89.142.229.13:1234/udp/232.4.3.4:5002
+#EXTINF:-1,Disney Channel
+http://89.142.229.13:1234/udp/232.4.2.2:5002
+#EXTINF:-1,Disney Junior
+http://89.142.229.13:1234/udp/232.4.3.42:5002
+#EXTINF:-1,Nickelodeon
+http://89.142.229.13:1234/udp/232.4.3.11:5002
+#EXTINF:-1,Boomerang
+http://89.142.229.13:1234/udp/232.4.3.6:5002
+#EXTINF:-1,Baby TV
+http://89.142.229.13:1234/udp/232.4.2.12:5002
+#EXTINF:-1,Orlando Kids
+http://89.142.229.13:1234/udp/232.4.3.47:5002
+#EXTINF:-1,Mangas
+http://89.142.229.13:1234/udp/232.4.4.11:5002
+#EXTINF:-1,MTV Live HD
+http://89.142.229.13:1234/udp/232.4.3.51:5002
+#EXTINF:-1,MTV Dance
+http://89.142.229.13:1234/udp/232.4.3.7:5002
+#EXTINF:-1,MTV Rocks
+http://89.142.229.13:1234/udp/232.4.3.8:5002
+#EXTINF:-1,MTV Hits
+http://89.142.229.13:1234/udp/232.4.3.9:5002
+#EXTINF:-1,VH1
+http://89.142.229.13:1234/udp/232.4.2.14:5002
+#EXTINF:-1,VH1 Classic
+http://89.142.229.13:1234/udp/232.4.3.10:5002
+#EXTINF:-1,MTV
+http://89.142.229.13:1234/udp/232.4.2.11:5002
+#EXTINF:-1,Mezzo
+http://89.142.229.13:1234/udp/232.4.3.41:5002
+#EXTINF:-1,Mezzo Live HD
+http://89.142.229.13:1234/udp/232.4.3.50:5002
+#EXTINF:-1,DM SAT
+http://89.142.229.13:1234/udp/232.4.3.25:5002
+#EXTINF:-1,Pink Music
+http://89.142.229.13:1234/udp/232.4.2.40:5002
+#EXTINF:-1,Pink Plus
+http://89.142.229.13:1234/udp/232.4.8.1:5002
+#EXTINF:-1,Pink Plus
+http://89.142.229.13:1234/udp/232.2.8.1:5002
+#EXTINF:-1,Pink Extra
+http://89.142.229.13:1234/udp/232.4.8.2:5002
+#EXTINF:-1,Pink Extra
+http://89.142.229.13:1234/udp/232.2.8.2:5002
+#EXTINF:-1,Pink Folk 1
+http://89.142.229.13:1234/udp/232.2.8.4:5002
+#EXTINF:-1,Pink 2
+http://89.142.229.13:1234/udp/232.4.8.5:5002
+#EXTINF:-1,Pink Kids
+http://89.142.229.13:1234/udp/232.4.8.6:5002
+#EXTINF:-1,Pink Family
+http://89.142.229.13:1234/udp/232.4.8.7:5002
+#EXTINF:-1,Pink Movies
+http://89.142.229.13:1234/udp/232.4.8.8:5002
+#EXTINF:-1,Pink Zabava
+http://89.142.229.13:1234/udp/232.4.8.9:5002
+#EXTINF:-1,Pink World
+http://89.142.229.13:1234/udp/232.4.8.10:5002
+#EXTINF:-1,Pink Film
+http://89.142.229.13:1234/udp/232.4.8.3:5002
+#EXTINF:-1,Pink Film
+http://89.142.229.13:1234/udp/232.2.8.3:5002
+#EXTINF:-1,Jugoton TV
+http://89.142.229.13:1234/udp/232.4.3.60:5002
+#EXTINF:-1,Neizvesten Kanal
+http://89.142.229.13:1234/udp/232.4.3.62:5002
+#EXTINF:-1,CMC
+http://89.142.229.13:1234/udp/232.4.2.16:5002
+#EXTINF:-1,Balkanika
+http://89.142.229.13:1234/udp/232.4.3.27:5002
+#EXTINF:-1,I-Concerts HD
+http://89.142.229.13:1234/udp/232.4.6.11:5002
+#EXTINF:-1,HBO HD
+http://89.142.229.13:1234/udp/232.4.205.5:5003
+#EXTINF:-1,Cinestar
+http://89.142.229.13:1234/udp/232.4.2.42:5002
+#EXTINF:-1,Cinestar
+http://89.142.229.13:1234/udp/232.4.202.42:5003
+#EXTINF:-1,Cinestar A&T
+http://89.142.229.13:1234/udp/232.4.3.46:5002
+#EXTINF:-1,TV 1000
+http://89.142.229.13:1234/udp/232.4.2.1:5002
+#EXTINF:-1,Klasik TV
+http://89.142.229.13:1234/udp/232.2.2.15:5002
+#EXTINF:-1,Fox
+http://89.142.229.13:1234/udp/232.4.2.46:5002
+#EXTINF:-1,Fox HD
+http://89.142.229.13:1234/udp/232.4.3.138:5002
+#EXTINF:-1,Fox HD
+http://89.142.229.13:1234/udp/232.2.3.138:5002
+#EXTINF:-1,Fox Movies HD
+http://89.142.229.13:1234/udp/232.4.3.132:5002
+#EXTINF:-1,FOX Movies
+http://89.142.229.13:1234/udp/232.4.2.45:5002
+#EXTINF:-1,Universal Channel
+http://89.142.229.13:1234/udp/232.4.3.1:5002
+#EXTINF:-1,MGM
+http://89.142.229.13:1234/udp/232.4.2.17:5002
+#EXTINF:-1,MGM
+http://89.142.229.13:1234/udp/232.2.2.17:5002
+#EXTINF:-1,CBS Drama
+http://89.142.229.13:1234/udp/232.4.2.29:5002
+#EXTINF:-1,National Geographic HD
+http://89.142.229.13:1234/udp/232.2.6.3:5002
+#EXTINF:-1,Discovery World
+http://89.142.229.13:1234/udp/232.4.3.13:5002
+#EXTINF:-1,Discovery HD Showcase
+http://89.142.229.13:1234/udp/232.2.6.1:5002
+#EXTINF:-1,Travel Channel HD
+http://89.142.229.13:1234/udp/232.2.6.8:5002
+#EXTINF:-1,History Channel
+http://89.142.229.13:1234/udp/232.4.3.18:5002
+#EXTINF:-1,Viasat History
+http://89.142.229.13:1234/udp/232.4.3.2:5002
+#EXTINF:-1,Viasat Explorer
+http://89.142.229.13:1234/udp/232.4.3.14:5002
+#EXTINF:-1,TLC
+http://89.142.229.13:1234/udp/232.4.3.15:5002
+#EXTINF:-1,FLN
+http://89.142.229.13:1234/udp/232.4.3.31:5002
+#EXTINF:-1,Da Vinci Learning
+http://89.142.229.13:1234/udp/232.4.3.17:5002
+#EXTINF:-1,Da Vinci U
+http://89.142.229.13:1234/udp/232.2.3.43:5002
+#EXTINF:-1,Nautical Channel
+http://89.142.229.13:1234/udp/232.4.4.2:5002
+#EXTINF:-1,DocuBox HD
+http://89.142.229.13:1234/udp/232.4.3.52:5002
+#EXTINF:-1,Wild TV HD
+http://89.142.229.13:1234/udp/232.4.6.9:5002
+#EXTINF:-1,Wild TV HD
+http://89.142.229.13:1234/udp/232.2.6.9:5002
+#EXTINF:-1,Food Network HD
+http://89.142.229.13:1234/udp/232.2.6.13:5002
+#EXTINF:-1,Fishing &amp;amp Hunting
+http://89.142.229.13:1234/udp/232.4.3.39:5002
+#EXTINF:-1,Food HD
+http://89.142.229.13:1234/udp/232.4.6.13:5002
+#EXTINF:-1,24 KITCHEN
+http://89.142.229.13:1234/udp/232.4.3.19:5002
+#EXTINF:-1,Sport TV
+http://89.142.229.13:1234/udp/232.4.2.4:5002
+#EXTINF:-1,Sport TV
+http://89.142.229.13:1234/udp/232.4.202.4:5003
+#EXTINF:-1,Sport TV HD
+http://89.142.229.13:1234/udp/232.4.2.128:5002
+#EXTINF:-1,Sport 2 TV
+http://89.142.229.13:1234/udp/232.4.3.24:5002
+#EXTINF:-1,Sport 2 TV
+http://89.142.229.13:1234/udp/232.4.203.24:5003
+#EXTINF:-1,Sport 2 TV HD
+http://89.142.229.13:1234/udp/232.4.3.128:5002
+#EXTINF:-1,Sport TV 3
+http://89.142.229.13:1234/udp/232.4.3.66:5002
+#EXTINF:-1,Sport TV 3 HD
+http://89.142.229.13:1234/udp/232.2.3.139:5002
+#EXTINF:-1,Sport TV 3 HD
+http://89.142.229.13:1234/udp/232.4.3.139:5002
+#EXTINF:-1,SportKlub 1 HD
+http://89.142.229.13:1234/udp/232.4.3.135:5002
+#EXTINF:-1,SportKlub 1
+http://89.142.229.13:1234/udp/232.4.2.24:5002
+#EXTINF:-1,SportKlub 2 HD
+http://89.142.229.13:1234/udp/232.4.3.136:5002
+#EXTINF:-1,SportKlub 2
+http://89.142.229.13:1234/udp/232.4.3.21:5002
+#EXTINF:-1,SportKlub 3 HD
+http://89.142.229.13:1234/udp/232.4.3.137:5002
+#EXTINF:-1,SportKlub 3
+http://89.142.229.13:1234/udp/232.4.2.44:5002
+#EXTINF:-1,SportKlub 4
+http://89.142.229.13:1234/udp/232.4.3.63:5002
+#EXTINF:-1,SportKlub 5
+http://89.142.229.13:1234/udp/232.4.3.64:5002
+#EXTINF:-1,SportKlub 6
+http://89.142.229.13:1234/udp/232.4.3.65:5002
+#EXTINF:-1,EuroSport HD
+http://89.142.229.13:1234/udp/232.4.6.4:5002
+#EXTINF:-1,Eurosport HD
+http://89.142.229.13:1234/udp/232.2.6.4:5002
+#EXTINF:-1,Eurosport
+http://89.142.229.13:1234/udp/232.4.2.25:5002
+#EXTINF:-1,Eurosport 2 HD
+http://89.142.229.13:1234/udp/232.4.6.12:5002
+#EXTINF:-1,Eurosport 2 HD
+http://89.142.229.13:1234/udp/232.2.6.12:5002
+#EXTINF:-1,Eurosport 2
+http://89.142.229.13:1234/udp/232.4.2.26:5002
+#EXTINF:-1,SPORT1
+http://89.142.229.13:1234/udp/232.4.2.3:5002
+#EXTINF:-1,FightBox HD
+http://89.142.229.13:1234/udp/232.4.3.53:5002
+#EXTINF:-1,Extreme
+http://89.142.229.13:1234/udp/232.4.3.22:5002
+#EXTINF:-1,Motors TV
+http://89.142.229.13:1234/udp/232.4.4.1:5002
+#EXTINF:-1,Ginx
+http://89.142.229.13:1234/udp/232.4.3.45:5002
+#EXTINF:-1,Ginx HD
+http://89.142.229.13:1234/udp/232.4.3.56:5002
+#EXTINF:-1,Fashion TV HD
+http://89.142.229.13:1234/udp/232.4.3.49:5002
+#EXTINF:-1,Fashion TV
+http://89.142.229.13:1234/udp/232.4.3.30:5002
+#EXTINF:-1,Fashion Box HD
+http://89.142.229.13:1234/udp/232.4.3.55:5002
+#EXTINF:-1,Outdoor Channel
+http://89.142.229.13:1234/udp/232.4.3.61:5002
+#EXTINF:-1,Motorvision HD
+http://89.142.229.13:1234/udp/232.4.3.57:5002
+#EXTINF:-1,ARD
+http://89.142.229.13:1234/udp/232.4.1.11:5002
+#EXTINF:-1,ZDF
+http://89.142.229.13:1234/udp/232.4.1.34:5002
+#EXTINF:-1,SAT 1
+http://89.142.229.13:1234/udp/232.4.3.34:5002
+#EXTINF:-1,RTL
+http://89.142.229.13:1234/udp/232.4.2.34:5002
+#EXTINF:-1,RTL II
+http://89.142.229.13:1234/udp/232.4.2.35:5002
+#EXTINF:-1,Super RTL
+http://89.142.229.13:1234/udp/232.4.2.36:5002
+#EXTINF:-1,Pro 7
+http://89.142.229.13:1234/udp/232.4.3.35:5002
+#EXTINF:-1,Kabel 1
+http://89.142.229.13:1234/udp/232.4.2.37:5002
+#EXTINF:-1,N-TV
+http://89.142.229.13:1234/udp/232.4.3.33:5002
+#EXTINF:-1,VOX
+http://89.142.229.13:1234/udp/232.4.3.32:5002
+#EXTINF:-1,3SAT
+http://89.142.229.13:1234/udp/232.4.1.45:5002
+#EXTINF:-1,ORF 1
+http://89.142.229.13:1234/udp/232.4.1.26:5002
+#EXTINF:-1,ORF 2
+http://89.142.229.13:1234/udp/232.4.1.27:5002
+#EXTINF:-1,RAI 1
+http://89.142.229.13:1234/udp/232.4.1.28:5002
+#EXTINF:-1,RAI 2
+http://89.142.229.13:1234/udp/232.4.1.29:5002
+#EXTINF:-1,RAI 3
+http://89.142.229.13:1234/udp/232.4.1.30:5002
+#EXTINF:-1,Mediaset Int
+http://89.142.229.13:1234/udp/232.4.3.44:5002
+#EXTINF:-1,BBC Knowledge
+http://89.142.229.13:1234/udp/232.4.3.58:5002
+#EXTINF:-1,Duna TV
+http://89.142.229.13:1234/udp/232.4.1.44:5002
+#EXTINF:-1,TVE
+http://89.142.229.13:1234/udp/232.4.1.32:5002
+#EXTINF:-1,E!
+http://89.142.229.13:1234/udp/232.4.2.23:5002
+#EXTINF:-1,TV5MONDE
+http://89.142.229.13:1234/udp/232.4.1.33:5002
+#EXTINF:-1,CNN International
+http://89.142.229.13:1234/udp/232.4.2.5:5002
+#EXTINF:-1,Bloomberg
+http://89.142.229.13:1234/udp/232.4.3.40:5002
+#EXTINF:-1,Channel One Russia
+http://89.142.229.13:1234/udp/232.4.2.39:5002
+#EXTINF:-1,BBC Entertainment
+http://89.142.229.13:1234/udp/232.4.2.30:5002
+#EXTINF:-1,BBC World
+http://89.142.229.13:1234/udp/232.4.2.7:5002
+#EXTINF:-1,Sky News
+http://89.142.229.13:1234/udp/232.4.2.32:5002
+#EXTINF:-1,France 24
+http://89.142.229.13:1234/udp/232.4.2.6:5002
+#EXTINF:-1,EuroNews
+http://89.142.229.13:1234/udp/232.4.3.29:5002
+#EXTINF:-1,Russia Today
+http://89.142.229.13:1234/udp/232.4.2.43:5002
+#EXTINF:-1,EWTN
+http://89.142.229.13:1234/udp/232.4.2.31:5002
+#EXTINF:-1,[COLOR yellow] SUBSCRIBE : Xbmc l Kodi [/COLOR]
+http://0.1.5.21:1224
