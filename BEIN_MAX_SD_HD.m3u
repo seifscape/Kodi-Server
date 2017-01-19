@@ -1,0 +1,40 @@
+
+#EXTINF:-1,======Bein max LOW ON LIVE===============================================================
+http://cdn.movcast.tv:1935/coolkora/server6_360p/playlist.m3u8
+#EXTINF:-1,bein max HIGH
+
+http://cdn.movcast.tv:1935/coolkora/server6_source/chunklist_w2139304079.m3u8
+#EXTINF:-1,bein max HIGH
+http://cdn.movcast.tv:1935/coolkora/server6_source/chunklist_w710542908.m3u8
+
+#EXTINF:-1,=====BEIN MAX 1 EM========================================================================
+http://149.202.199.52:9000/live/1436654213/42585/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODMwMzE1MDEsIm5iZiI6MTQ4MzAzMTUwMX0.d-iNozy77zbGLIib7C-wHXtKQ60ptPPfkRxa7qwwasY&starttime=1484463179
+
+#EXTINF:-1,BEIN MAX 2 EM
+http://149.202.199.52:9000/live/155505887/42589/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODMwMzE1MDEsIm5iZiI6MTQ4MzAzMTUwMX0.d-iNozy77zbGLIib7C-wHXtKQ60ptPPfkRxa7qwwasY&starttime=1484463259
+
+
+#EXTINF:-1,BEIN MAX 3 EM
+http://149.202.199.52:9000/live/1863937532/42591/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODMwMzE1MDEsIm5iZiI6MTQ4MzAzMTUwMX0.d-iNozy77zbGLIib7C-wHXtKQ60ptPPfkRxa7qwwasY&starttime=1484463331
+
+
+#EXTINF:-1,======BEIN MAX 1 SH========================================================================
+http://149.202.199.52:9000/live/1436654213/42585/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODMwMzE1MDEsIm5iZiI6MTQ4MzAzMTUwMX0.d-iNozy77zbGLIib7C-wHXtKQ60ptPPfkRxa7qwwasY&starttime=1484462782
+
+#EXTINF:-1,BEIN MAX 2
+http://149.202.199.52:9000/live/155505887/42589/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODMwMzE1MDEsIm5iZiI6MTQ4MzAzMTUwMX0.d-iNozy77zbGLIib7C-wHXtKQ60ptPPfkRxa7qwwasY&starttime=1484462827
+
+#EXTINF:-1,=======AFRICAN RTIL 1H=====================================================================
+http://85.25.207.10:1935/live/smil:rti1.smil/chunklist_w2060257199_b398000_sleng.m3u8
+
+#EXTINF:-1,ortm
+http://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_480p/chunks.m3u8?nimblesessionid=17682
+#EXTINF:-1,ortm
+http://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_360p/chunks.m3u8?nimblesessionid=17682
+
+
+#EXTINF:-1,==========EUROSPORT FRANCE===============================================================
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_700.m3u8
+
+#EXTINF:-1,EUROSPORT ENGLISH
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_700.m3u8
